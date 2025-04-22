@@ -27,7 +27,7 @@ export default function Home() {
         </ol>
 
         <div>
-        <form name="contact" netlify>
+        <form name="contact" data-netlify="true">
   <p>
     <label>Name <input type="text" name="name" /></label>
   </p>
