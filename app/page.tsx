@@ -23,7 +23,9 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Save and see your changes instantly.
           </li>
-          <li>MODIFICA ELEMENTO PER NETLIFY PARTE 2</li>
+          <li>MODIFICA ELEMENTO PER NETLIFY PARTE 2
+            SOLO DEVELOPMENT
+          </li>
         </ol>
 
         <div>
